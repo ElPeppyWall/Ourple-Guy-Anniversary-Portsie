@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="freeplayarrow.png" width="238" height="40">
+	<SubTexture name="normal0000" x="110" y="1" width="39" height="36" frameX="-25" frameY="-24" frameWidth="89" frameHeight="84"/>
+	<SubTexture name="normal0001" x="154" y="1" width="40" height="37" frameX="-25" frameY="-23" frameWidth="89" frameHeight="84"/>
+	<SubTexture name="normal0002" x="199" y="1" width="38" height="38" frameX="-25" frameY="-23" frameWidth="89" frameHeight="84"/>
+	<SubTexture name="press0000" x="1" y="1" width="56" height="23" frameX="-18" frameY="-33" frameWidth="89" frameHeight="84"/>
+	<SubTexture name="press0001" x="62" y="1" width="43" height="29" frameX="-23" frameY="-29" frameWidth="89" frameHeight="84"/>
+</TextureAtlas>

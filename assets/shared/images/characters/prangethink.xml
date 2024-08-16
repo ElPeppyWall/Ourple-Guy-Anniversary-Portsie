@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="prangethink.png" width="1055" height="1105">
+	<SubTexture name="idle0000" x="459" y="1" width="249" height="373" frameX="-217" frameY="-76" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle0001" x="1" y="418" width="375" height="342" rotated="true" frameX="-217" frameY="-74" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0000" x="459" y="377" width="306" height="363" frameX="-224" frameY="-86" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right0001" x="379" y="743" width="314" height="356" frameX="-214" frameY="-93" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0000" x="696" y="743" width="351" height="267" frameX="-190" frameY="-182" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down0001" x="768" y="367" width="275" height="341" rotated="true" frameX="-195" frameY="-174" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0000" x="1" y="763" width="356" height="341" rotated="true" frameX="-130" frameY="-93" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left0001" x="711" y="1" width="343" height="363" frameX="-139" frameY="-86" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0000" x="1" y="1" width="220" height="414" frameX="-229" frameY="-35" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up0001" x="224" y="1" width="232" height="404" frameX="-220" frameY="-45" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

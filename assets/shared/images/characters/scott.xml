@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="scott.png" width="672" height="728">
+	<SubTexture name="idle00000" x="543" y="305" width="127" height="119" frameX="-80" frameY="-85" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="idle00001" x="148" y="502" width="128" height="121" frameX="-83" frameY="-83" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="idle00002" x="543" y="305" width="127" height="119" frameX="-80" frameY="-85" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="idle00003" x="148" y="502" width="128" height="121" frameX="-83" frameY="-83" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="down00000" x="271" y="635" width="127" height="84" frameX="-85" frameY="-132" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="down00001" x="532" y="569" width="125" height="87" frameX="-86" frameY="-129" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="up00000" x="0" y="290" width="113" height="169" frameX="-85" frameY="-33" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="up00001" x="300" y="0" width="116" height="168" frameX="-85" frameY="-35" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="right00000" x="276" y="347" width="129" height="150" rotated="true" frameX="-95" frameY="-84" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="right00001" x="397" y="173" width="148" height="127" frameX="-95" frameY="-85" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="left00000" x="421" y="0" width="116" height="145" rotated="true" frameX="-70" frameY="-104" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="left00001" x="410" y="455" width="117" height="143" rotated="true" frameX="-72" frameY="-104" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missdown00000" x="139" y="628" width="127" height="89" frameX="-87" frameY="-128" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missdown00001" x="407" y="603" width="87" height="125" rotated="true" frameX="-86" frameY="-129" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missup00000" x="0" y="152" width="163" height="133" rotated="true" frameX="-73" frameY="-19" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missup00001" x="276" y="174" width="116" height="168" frameX="-85" frameY="-35" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missright00000" x="168" y="174" width="103" height="191" rotated="true" frameX="-73" frameY="-106" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missright00001" x="118" y="370" width="148" height="127" frameX="-95" frameY="-85" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missleft00000" x="410" y="305" width="128" height="145" rotated="true" frameX="-60" frameY="-94" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="missleft00001" x="0" y="502" width="143" height="117" frameX="-72" frameY="-104" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00000" x="281" y="502" width="121" height="128" rotated="true" frameX="-83" frameY="-83" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00001" x="550" y="126" width="111" height="129" rotated="true" frameX="-82" frameY="-93" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00002" x="0" y="624" width="134" height="96" frameX="-85" frameY="-110" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00003" x="499" y="661" width="135" height="61" frameX="-76" frameY="-147" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00004" x="542" y="0" width="128" height="121" frameX="-87" frameY="-92" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00005" x="0" y="0" width="160" height="147" frameX="-92" frameY="-47" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00006" x="168" y="0" width="127" height="169" rotated="true" frameX="-78" frameY="-55" frameWidth="315" frameHeight="225"/>
+	<SubTexture name="tweak00007" x="532" y="455" width="140" height="109" frameX="-107" frameY="-73" frameWidth="315" frameHeight="225"/>
+</TextureAtlas>

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "i"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				7
+			],
+			"anim": "ball",
+			"fps": 14,
+			"name": "ball",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "sit",
+			"fps": 4,
+			"name": "sit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				15
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "drinking",
+			"loop": true,
+			"name": "drinking"
+		},
+		{
+			"offsets": [
+				6,
+				15
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "drinksit",
+			"loop": true,
+			"name": "drinksit"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "bgs/inside/gfwalk",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ourplegf",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-80,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

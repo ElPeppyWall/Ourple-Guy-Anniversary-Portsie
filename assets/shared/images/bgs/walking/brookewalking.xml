@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="brookewalking.png" width="2256" height="790">
+	<SubTexture name="frame1" x="1" y="1" width="566" height="783" frameX="-377" frameY="-214" frameWidth="1266" frameHeight="998"/>
+	<SubTexture name="frame2" x="570" y="1" width="555" height="786" frameX="-379" frameY="-212" frameWidth="1266" frameHeight="998"/>
+	<SubTexture name="frame3" x="1128" y="1" width="564" height="788" frameX="-377" frameY="-210" frameWidth="1266" frameHeight="998"/>
+	<SubTexture name="frame4" x="1695" y="1" width="560" height="788" frameX="-380" frameY="-210" frameWidth="1266" frameHeight="998"/>
+</TextureAtlas>

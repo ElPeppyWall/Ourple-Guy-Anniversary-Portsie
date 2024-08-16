@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lime.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="clean00000" x="0" y="0" width="460" height="196"/>
+	<SubTexture name="clean00001" x="460" y="0" width="460" height="196"/>
+	<SubTexture name="clean00002" x="920" y="0" width="460" height="196"/>
+	<SubTexture name="clean00003" x="1380" y="0" width="460" height="196"/>
+	<SubTexture name="bye00000" x="1380" y="0" width="460" height="196"/>
+	<SubTexture name="bye00001" x="1840" y="0" width="460" height="196"/>
+	<SubTexture name="bye00002" x="2300" y="0" width="460" height="196"/>
+	<SubTexture name="bye00003" x="0" y="196" width="460" height="196"/>
+	<SubTexture name="bye00004" x="460" y="196" width="460" height="196"/>
+	<SubTexture name="bye00005" x="920" y="196" width="460" height="196"/>
+	<SubTexture name="bye00006" x="1380" y="196" width="460" height="196"/>
+	<SubTexture name="bye00007" x="1840" y="196" width="460" height="196"/>
+	<SubTexture name="bye00008" x="2300" y="196" width="460" height="196"/>
+	<SubTexture name="bye00009" x="0" y="392" width="460" height="196"/>
+	<SubTexture name="bye00010" x="460" y="392" width="460" height="196"/>
+	<SubTexture name="bye00011" x="920" y="392" width="460" height="196"/>
+	<SubTexture name="bye00012" x="1380" y="392" width="460" height="196"/>
+	<SubTexture name="idle00000" x="1380" y="392" width="460" height="196"/>
+	<SubTexture name="idle00001" x="1840" y="392" width="460" height="196"/>
+	<SubTexture name="idle00002" x="2300" y="392" width="460" height="196"/>
+	<SubTexture name="idle00003" x="0" y="588" width="460" height="196"/>
+	<SubTexture name="idle00004" x="0" y="588" width="460" height="196"/>
+	<SubTexture name="idle00005" x="0" y="588" width="460" height="196"/>
+	<SubTexture name="down00000" x="460" y="588" width="460" height="196"/>
+	<SubTexture name="down00001" x="920" y="588" width="460" height="196"/>
+	<SubTexture name="up00000" x="1380" y="588" width="460" height="196"/>
+	<SubTexture name="up00001" x="1840" y="588" width="460" height="196"/>
+	<SubTexture name="left00000" x="2300" y="588" width="460" height="196"/>
+	<SubTexture name="left00001" x="0" y="784" width="460" height="196"/>
+	<SubTexture name="right00000" x="460" y="784" width="460" height="196"/>
+	<SubTexture name="right00001" x="920" y="784" width="460" height="196"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="prangesneak.png" width="717" height="710">
+	<SubTexture name="idle0000" x="1" y="307" width="177" height="144" rotated="true" frameX="-60" frameY="-22" frameWidth="247" frameHeight="220"/>
+	<SubTexture name="idle0001" x="359" y="1" width="129" height="175" frameX="-67" frameY="-28" frameWidth="247" frameHeight="220"/>
+	<SubTexture name="idle0002" x="605" y="152" width="111" height="152" frameX="-57" frameY="-47" frameWidth="247" frameHeight="220"/>
+	<SubTexture name="idle0003" x="1" y="143" width="182" height="161" rotated="true" frameX="-39" frameY="-27" frameWidth="247" frameHeight="220"/>
+	<SubTexture name="idle0004" x="186" y="210" width="158" height="176" frameX="-41" frameY="-32" frameWidth="247" frameHeight="220"/>
+	<SubTexture name="idle0005" x="565" y="348" width="106" height="163" frameX="-57" frameY="-47" frameWidth="247" frameHeight="220"/>
+	<SubTexture name="down0000" x="1" y="610" width="134" height="99" rotated="true" frameX="-66" frameY="-72" frameWidth="247" frameHeight="216"/>
+	<SubTexture name="down0001" x="617" y="1" width="96" height="139" frameX="-69" frameY="-65" frameWidth="247" frameHeight="216"/>
+	<SubTexture name="left0000" x="1" y="454" width="136" height="153" frameX="-37" frameY="-52" frameWidth="247" frameHeight="215"/>
+	<SubTexture name="left0001" x="140" y="527" width="133" height="153" frameX="-44" frameY="-49" frameWidth="247" frameHeight="215"/>
+	<SubTexture name="up0000" x="181" y="410" width="194" height="114" rotated="true" frameX="-72" frameY="-5" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="up0001" x="378" y="410" width="184" height="120" rotated="true" frameX="-67" frameY="-14" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="right0000" x="276" y="533" width="111" height="162" frameX="-98" frameY="-35" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="right0001" x="488" y="179" width="114" height="166" frameX="-84" frameY="-34" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="spin0000" x="516" y="533" width="127" height="141" frameX="-69" frameY="-44" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="spin0001" x="390" y="533" width="123" height="146" frameX="-68" frameY="-51" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="spin0002" x="491" y="1" width="123" height="148" frameX="-73" frameY="-50" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="spin0003" x="216" y="1" width="140" height="206" rotated="true" frameX="-12" frameY="-55" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="spin0004" x="1" y="1" width="212" height="139" frameX="-22" frameY="-51" frameWidth="247" frameHeight="211"/>
+	<SubTexture name="spin0005" x="347" y="210" width="138" height="197" rotated="true" frameX="-26" frameY="-52" frameWidth="247" frameHeight="211"/>
+</TextureAtlas>

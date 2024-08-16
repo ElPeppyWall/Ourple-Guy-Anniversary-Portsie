@@ -1,0 +1,23 @@
+{
+	"directory": "",
+	"defaultZoom": 1.8,
+	"isPixelStage": false,
+
+	"boyfriend": [40, 220],
+	"girlfriend": [0, 0],
+	"opponent": [430, 100],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [50, 25],
+	"camera_opponent": [-25, 25],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+	"images_to_cache": [
+		"bgs/bgAssets",
+		"bgs/ending",
+		"bgs/gradient",
+		"bgs/overlay",
+		"bgs/bg",
+		"bgs/cut"
+	]
+}

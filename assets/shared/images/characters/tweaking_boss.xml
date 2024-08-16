@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="tweaking_boss.png" width="603" height="520">
+	<SubTexture name="idle00000" x="0" y="396" width="156" height="124" rotated="true" frameX="-151" frameY="-141" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="idle00001" x="479" y="0" width="124" height="155" frameX="-151" frameY="-141" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="idle00002" x="161" y="396" width="156" height="124" rotated="true" frameX="-151" frameY="-141" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="idle00003" x="479" y="160" width="124" height="155" frameX="-151" frameY="-141" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="up00000" x="0" y="0" width="102" height="228" frameX="-151" frameY="-36" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="up00001" x="107" y="0" width="105" height="226" frameX="-148" frameY="-41" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="left00000" x="385" y="0" width="89" height="156" frameX="-107" frameY="-127" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="left00001" x="317" y="200" width="157" height="89" rotated="true" frameX="-112" frameY="-124" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="down00000" x="199" y="231" width="113" height="157" rotated="true" frameX="-141" frameY="-200" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="down00001" x="322" y="294" width="116" height="155" rotated="true" frameX="-142" frameY="-197" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="right00000" x="0" y="233" width="194" height="158" frameX="-201" frameY="-147" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="right00001" x="217" y="0" width="163" height="195" rotated="true" frameX="-198" frameY="-146" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="missdown00000" x="443" y="320" width="115" height="71" rotated="true" frameX="-172" frameY="-171" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="missleft00000" x="443" y="320" width="115" height="71" rotated="true" frameX="-172" frameY="-171" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="missup00000" x="443" y="320" width="115" height="71" rotated="true" frameX="-172" frameY="-171" frameWidth="426" frameHeight="342"/>
+	<SubTexture name="missright00000" x="443" y="320" width="115" height="71" rotated="true" frameX="-172" frameY="-171" frameWidth="426" frameHeight="342"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cup.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="byecup00000" x="0" y="0" width="700" height="196"/>
+	<SubTexture name="byecup00001" x="700" y="0" width="700" height="196"/>
+	<SubTexture name="byecup00002" x="1400" y="0" width="700" height="196"/>
+	<SubTexture name="byecup00003" x="2100" y="0" width="700" height="196"/>
+	<SubTexture name="byecup00004" x="2800" y="0" width="700" height="196"/>
+	<SubTexture name="byecup00005" x="0" y="196" width="700" height="196"/>
+	<SubTexture name="byecup00006" x="700" y="196" width="700" height="196"/>
+	<SubTexture name="byecup00007" x="700" y="196" width="700" height="196"/>
+	<SubTexture name="byecup00008" x="1400" y="196" width="700" height="196"/>
+	<SubTexture name="byecup00009" x="2100" y="196" width="700" height="196"/>
+	<SubTexture name="byecup00010" x="2800" y="196" width="700" height="196"/>
+	<SubTexture name="byecup00011" x="0" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00012" x="0" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00013" x="700" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00014" x="700" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00015" x="1400" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00016" x="2100" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00017" x="2800" y="392" width="700" height="196"/>
+	<SubTexture name="byecup00018" x="0" y="588" width="700" height="196"/>
+	<SubTexture name="byecup00019" x="700" y="588" width="700" height="196"/>
+	<SubTexture name="byecup00020" x="1400" y="588" width="700" height="196"/>
+	<SubTexture name="byecup00021" x="2100" y="588" width="700" height="196"/>
+</TextureAtlas>

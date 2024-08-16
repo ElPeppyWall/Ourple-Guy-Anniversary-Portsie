@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="brookebig.png" width="2881" height="246">
+	<SubTexture name="down1" x="1" y="1" width="246" height="182" frameX="-177" frameY="-235" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="down2" x="250" y="1" width="242" height="194" frameX="-181" frameY="-223" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle1" x="1845" y="1" width="270" height="228" frameX="-181" frameY="-189" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="idle2" x="1315" y="1" width="264" height="226" frameX="-185" frameY="-191" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left1" x="1048" y="1" width="264" height="225" frameX="-151" frameY="-192" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="left2" x="1582" y="1" width="260" height="226" frameX="-155" frameY="-191" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="miss" x="2379" y="1" width="253" height="239" frameX="-190" frameY="-178" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right1" x="495" y="1" width="275" height="217" frameX="-204" frameY="-200" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="right2" x="773" y="1" width="272" height="223" frameX="-203" frameY="-194" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up1" x="2118" y="1" width="258" height="235" rotated="true" frameX="-193" frameY="-159" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="up2" x="2635" y="1" width="245" height="244" rotated="true" frameX="-188" frameY="-172" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

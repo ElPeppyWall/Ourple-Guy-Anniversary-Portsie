@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="i4.png" width="525" height="7925">
+	<SubTexture name="i40000" x="0" y="0" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40001" x="0" y="0" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40002" x="0" y="0" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40003" x="0" y="0" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40004" x="0" y="0" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40005" x="0" y="305" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40006" x="0" y="610" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40007" x="0" y="610" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40008" x="0" y="915" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40009" x="0" y="915" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40010" x="0" y="915" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40011" x="0" y="915" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40012" x="0" y="1220" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40013" x="0" y="1525" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40014" x="0" y="1830" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40015" x="0" y="2135" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40016" x="0" y="2440" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40017" x="0" y="2745" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40018" x="0" y="3050" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40019" x="0" y="3355" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40020" x="0" y="3660" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40021" x="0" y="3965" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40022" x="0" y="4270" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40023" x="0" y="4575" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40024" x="0" y="4880" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40025" x="0" y="5185" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40026" x="0" y="5490" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40027" x="0" y="5795" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40028" x="0" y="6100" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40029" x="0" y="6405" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40030" x="0" y="6710" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40031" x="0" y="7015" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40032" x="0" y="7320" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40033" x="0" y="7625" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+	<SubTexture name="i40034" x="0" y="6100" width="525" height="300" frameX="-0" frameY="-0" frameWidth="525" frameHeight="300"/>
+</TextureAtlas>

@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"fps": 8,
+			"anim": "cheer",
+			"loop": false,
+			"name": "cheer"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "bgs/behind/gracethink",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ourpgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		2,
+		10
+	],
+	"camera_position": [
+		-240,
+		0
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
