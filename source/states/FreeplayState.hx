@@ -209,6 +209,10 @@ class FreeplayState extends MusicBeatState
 		changeSelection();
 		updateTexts();
 
+		#if !android
+		addVirtualPad(NONE, B);
+		#end
+
 		super.create();
 	}
 
@@ -276,7 +280,7 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 
-        if (controls.BACK #if mobile || FlxG.android.justReleased.BACK #end)
+        if (controls.BACK #if android || FlxG.android.justReleased.BACK #end)
 		{
 			if (player.playingMusic)
 			{
