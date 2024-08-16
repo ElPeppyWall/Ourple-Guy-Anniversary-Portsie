@@ -201,7 +201,7 @@ function onUpdatePost(elapsed){
 
     game.canPause = false;
 
-    if (controls.ACCEPT || FlxG.android.justReleased.BACK) {
+    if (controls.PAUSE) {
         FlxG.sound.play(Paths.sound('cancelMenu'));
         noPauseTime = 1;
     }
